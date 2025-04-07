@@ -1,0 +1,6 @@
+- Description: App crashes when I try to upload a photo.
+- System: Android 12 (Pixel 5)
+- Frequency: Always
+- Impact: High
+- Reproduction Steps: 1. Open the app, 2. Tap upload, 3. Select photo, 4. Crash
+- Timestamp: 2025-04-07 16:20:00
